@@ -9,3 +9,6 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/marvrodriguez//configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/marvrodriguez//azure-network-protocols)
+    
+<h2>🤳Connect with me:</h2>
+<img align="left" |" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[Linkedin]: www.linkedin.com/in/marvin-rodriguez-66m
